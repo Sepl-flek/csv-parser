@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <ссылка на репозиторий>
+   git clone https://github.com/Sepl-flek/csv-parser
    cd csv-parser
    ```
 2. Установите зависимости:
